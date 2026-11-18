@@ -1,0 +1,5 @@
+* [หน้าหลัก (Home)](/)
+* [บทที่ 1: รู้จักกับ AIoT](01-intro.md)
+* [บทที่ 2: การใช้งานบอร์ด Cucumber](02-cucumber.md)
+* [บทที่ 3: AI วิเคราะห์ข้อมูลบน Colab](03-ai-colab.md)
+* [บทที่ 4: แจ้งเตือนผ่าน Telegram Bot](04-telegram.md)
