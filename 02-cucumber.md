@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="<img width="1520" height="930" alt="image" src="https://github.com/user-attachments/assets/cac3deca-1ab0-4892-b888-70d17f44fc93" />
-" width="500">
   <br>
   <em>ภาพแสดงตำแหน่งอุปกรณ์บนบอร์ด Cucumber</em>
 </p>
