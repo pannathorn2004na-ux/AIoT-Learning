@@ -9,7 +9,8 @@
 ก่อนเริ่มเขียนโปรแกรม เรามาดูส่วนประกอบต่าง ๆ บนบอร์ด Cucumber กันก่อน เพื่อให้รู้ว่าแต่ละส่วนใช้ทำอะไรและต้องเชื่อมต่ออย่างไร
 
 <p align="center">
-  <img src="[ลิงก์รูปภาพ](https://github.com/user-attachments/assets/1a8a5c58-6696-48ed-a8f3-1e454fa71d77)" width="500">
+  <img src="<img width="1520" height="930" alt="image" src="https://github.com/user-attachments/assets/cac3deca-1ab0-4892-b888-70d17f44fc93" />
+" width="500">
   <br>
   <em>ภาพแสดงตำแหน่งอุปกรณ์บนบอร์ด Cucumber</em>
 </p>
